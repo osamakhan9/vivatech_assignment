@@ -1,0 +1,24 @@
+.activeLable{
+	color: black;
+}
+.activeDive{
+	display: flex;
+	gap: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.selectStyle{
+	width: 100%;
+	color: black;
+	border: 1px solid black;
+	height: 40px;
+	border-radius: 10px;
+	
+	background-color: #c1c4cc;
+	margin-bottom: 10px;
+}
+#NewTaskForm{
+	color: black;
+	
+}
